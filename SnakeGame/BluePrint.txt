@@ -1,0 +1,10 @@
+create a black screen
+    draw a line in between
+
+create a score module
+
+create a module for pong ball
+
+create a module for sticks at the two sides
+    one should be played by the computer
+    one should be play by the hum
